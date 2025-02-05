@@ -43,7 +43,7 @@ Run the main script to train and evaluate the model:
 
 The script will train the model using the training and validation datasets, and then evaluate it using the testing dataset. The results, including confusion matrix, ROC curve, and precision-recall curve, will be displayed.
 ## Results
-The model's performance is evaluated using various metrics, including accuracy, confusion matrix, ROC curve, and precision-recall curve. The results are displayed as plots and printed in the console.
+The model's performance is evaluated using various metrics, including accuracy, confusion matrix, ROC curve, and precision-recall curve. The results are displayed as plots and printed in the console. Note please create a folder in the structure, as I have given above. 
 
 ## 1 Paper Link 
 Paper will be available after publication.
