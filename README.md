@@ -1,4 +1,4 @@
-# Drone-Assisted Framework for Fire Detection: A Deep Pyramid Attention and Medium-Scale Dataset
+# A Deep Learning Framework and Medium-Scale Drone Dataset for Fire Detection in Complex Surveillance
 
 # Project Structure
 Please follow the project structure for successful implementation. 
