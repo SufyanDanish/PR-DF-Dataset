@@ -50,7 +50,7 @@ Paper will be available after publication.
 ## 2 Dataset
 The datasets can be downloaded from the following links.
 
-Option 1: The proposed DF dataset Download from given link: Click [here]([https://github.com/SufyanDanish/DF-Dataset/edit/main/DF.html](https://docs.google.com/forms/d/e/1FAIpQLSdRiXrcNHadBrfAtEf7-hB65cFf6CvTaWJMJDc4tp2JAjREfA/viewform))
+Option 1: The proposed DF dataset Download from given link: Click [here](https://docs.google.com/forms/d/e/1FAIpQLSdRiXrcNHadBrfAtEf7-hB65cFf6CvTaWJMJDc4tp2JAjREfA/viewform)
 
 Option 2: Download FLAME’s dataset from the given link: Click [here](https://ieee-dataport.org/open-access/flame-dataset-aerial-imagery-pile-burn-detection-using-drones-uavs)
 
